@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Tunco",
+        "age": 3,
+        "weigth": 10.5,
+        "isAlive": true,
+        "Owner": {
+            "name": "Joseph",
+            "age": 27,
+            "Address": "46 West Talbot Dr Eugene, OR 97042"
+        },
+        "Care": [
+            "Walk once a day",
+            "Special food"
+        ]
+    },
+    {
+        "name": "Tiger",
+        "age": 2,
+        "weigth": 9.3,
+        "isAlive": true,
+        "Owner": {
+            "name": "Jhonas",
+            "age": 27,
+            "Address": "9747 West Ivy Street, NJ 08701"
+        },
+        "Care": [
+            "Walk once a day",
+            "Insuline shots"
+        ]
+    },
+    {
+        "name": "American cocker spaniel",
+        "age": 12,
+        "weigth": 15,
+        "isAlive": true,
+        "Owner": {
+            "name": "Ellie",
+            "age": 25,
+            "Address": "45 Blue Spring, NY 10301"
+        },
+        "Care": [
+            "Walk once a day",
+            "Special food",
+            "Calcium pills"
+        ]
+    }
+]
